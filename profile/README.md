@@ -118,7 +118,7 @@ npm run dev
 
 ## Documentación
 
-- [Documentación API](hhttps://documenter.getpostman.com/view/46421388/2sB3WttK9M)
+- [Documentación API - Postman](https://documenter.getpostman.com/view/46421388/2sB3WttK9M)
 - [README Backend](https://github.com/BOXPREMIER/boxpremier-server/blob/main/README.md)
 - [README Frontend](https://github.com/BOXPREMIER/boxpremier-client/blob/main/README.md)
 
