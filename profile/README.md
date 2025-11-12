@@ -124,7 +124,7 @@ npm run dev
 
 ---
 
-## Colaboradores
+## Colaboradoras
 
 <table>
   <tr>
