@@ -1,6 +1,6 @@
 # BoxPremier
 
-Plataforma de suscripción de vinos premium con gestión automatizada de pedidos y pagos.
+Plataforma de suscripción de vinos BoxPremier.
 
 ---
 
